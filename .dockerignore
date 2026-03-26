@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.ace-tool
+coverage
+*.log
+.env.local
+Docker Release TO DO list.csv
