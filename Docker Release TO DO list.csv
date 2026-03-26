@@ -1,6 +1,0 @@
-step,status
-检查当前项目与发布环境状态,DONE
-补齐 Docker 相关文件,DONE
-构建并推送 Docker 镜像,DONE
-推送项目到 GitHub 仓库,IN_PROGRESS
-验证结果并整理说明,TODO
